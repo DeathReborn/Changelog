@@ -18,6 +18,7 @@ We will test them properly before release from now on :)
 Also, don't hesitate to give feedback or report any bugs related to Death Reborn modpack, this helps us to address more issue that we missed and give more improvements to our modpack!
 
 Starting from this release, now we will use version name like this: Death Reborn 4.1
-Since we cannot post minor update due to current version scheme (Since it is rolling release and it ) so we improved it! Since it doesn't frequently being updated and wanted to have clear update changes between each releases, now we are moving to Point release instead of rolling release! This allows us to have more testing phase before releasing the update and allows modpack to have less bugs compared with old rolling release policy.
 
-Well, that's it! We hope you enjoy the minor updates :)
+Since we cannot post minor update due to current version scheme (Since it is rolling release and small and frequent update, it caused people to remove addon that is now obsolete after each update release) so we improved it! Since it doesn't frequently being updated and wanted to have clear update changes between each releases, now we are moving to Point release instead of rolling release! This allows us to have more testing phase before releasing the update and allows modpack to have less bugs compared with old rolling release policy.
+
+Well, that's it! We hope you enjoy this minor update :)
