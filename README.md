@@ -19,6 +19,9 @@ We are happy to announce the version 5 of Death Reborn! This update includes som
 ### Replacement
 - LED Flashlight is removed, instead default flashlight was replaced with Actual Flashlight addon
 
+### Removal
+- Removed More Realistic Bill Corpse due to conflict
+
 ### L4B DR Edition
 - Updated script to latest Left 4 Bots addon
 - tank_molotov_chance value has been reduced to 40% (Since mostly player throws Tank instead of bots)
