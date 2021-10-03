@@ -1,9 +1,8 @@
-# 📢 Announcement
-**The New Documentation page of Death Reborn, based on GitBook is now on WIP(Work In-Progress)!**
+# ⚠️ NOTICE: This wiki is obsolete ⚠️
+New documentation page is now available!
 
-It will be revealed alongside with Death Reborn 6 release, so stay tuned!
-
-After new documentation page releases, this repository might get archived :(
+This wiki is no longer being used and it is outdated.
+You can find the new documentation page [right here](https://mysticmoonlight.gitbook.io/deathreborn).
 
 # Death Reborn Wiki
 Click on Wiki tab above to access to our Wiki page.
